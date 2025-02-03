@@ -1,6 +1,6 @@
 param (
     [string]$fileName,
-    [string]$subDirectory = ""  # Varsayılan olarak boş, eğer dizin verilirse eklenir
+    [string]$subDirectory = ""  
 )
 
 $baseDirectory = "C:\Users\Admin\Desktop\dey"
